@@ -32,5 +32,5 @@ public class Dice {
 
 
 	public Object getDie2Roll() {
-		return 0;	}
+		return lastDie2Roll;	}
 }
